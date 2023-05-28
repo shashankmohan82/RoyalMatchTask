@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-merged_res-44:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-main-46:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-merged_res-44:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-main-46:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-merged_res-44:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-main-46:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-merged_res-44:/drawable_bottom_nav_bg.xml.flat",
+        "source": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-main-46:/drawable/bottom_nav_bg.xml"
+    },
+    {
+        "merged": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-merged_res-44:/drawable_bg_green_circle.xml.flat",
+        "source": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-main-46:/drawable/bg_green_circle.xml"
+    },
+    {
+        "merged": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-merged_res-44:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-main-46:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-merged_res-44:/drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-main-46:/drawable/ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-merged_res-44:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-main-46:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-merged_res-44:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-main-46:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-merged_res-44:/menu_bottom_nav_menu.xml.flat",
+        "source": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-main-46:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-merged_res-44:/drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-main-46:/drawable/ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-merged_res-44:/layout_fragment_home.xml.flat",
+        "source": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-main-46:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-merged_res-44:/layout_fragment_frontend.xml.flat",
+        "source": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-main-46:/layout/fragment_frontend.xml"
+    },
+    {
+        "merged": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-merged_res-44:/layout_fragment_notifications.xml.flat",
+        "source": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-main-46:/layout/fragment_notifications.xml"
+    },
+    {
+        "merged": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-merged_res-44:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-main-46:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-merged_res-44:/drawable_bg_green_rectangle.xml.flat",
+        "source": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-main-46:/drawable/bg_green_rectangle.xml"
+    },
+    {
+        "merged": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-merged_res-44:/drawable_ic_home_black_24dp.xml.flat",
+        "source": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-main-46:/drawable/ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-merged_res-44:/layout_images_holder.xml.flat",
+        "source": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-main-46:/layout/images_holder.xml"
+    },
+    {
+        "merged": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-merged_res-44:/xml_backup_rules.xml.flat",
+        "source": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-main-46:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-merged_res-44:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-main-46:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-merged_res-44:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-main-46:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-merged_res-44:/layout_activity_main.xml.flat",
+        "source": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-main-46:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-merged_res-44:/layout_activity_pager2.xml.flat",
+        "source": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-main-46:/layout/activity_pager2.xml"
+    },
+    {
+        "merged": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-merged_res-44:/drawable_house.png.flat",
+        "source": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-main-46:/drawable/house.png"
+    },
+    {
+        "merged": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-merged_res-44:/drawable_dashboard.png.flat",
+        "source": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-main-46:/drawable/dashboard.png"
+    },
+    {
+        "merged": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-merged_res-44:/navigation_mobile_navigation.xml.flat",
+        "source": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-main-46:/navigation/mobile_navigation.xml"
+    },
+    {
+        "merged": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-merged_res-44:/drawable_elephant.png.flat",
+        "source": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-main-46:/drawable/elephant.png"
+    },
+    {
+        "merged": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-merged_res-44:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-main-46:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.task.royalmatch.app-merged_res-44:/layout_fragment_dashboard.xml.flat",
+        "source": "com.task.royalmatch.app-main-46:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-merged_res-44:/drawable_bell.png.flat",
+        "source": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-main-46:/drawable/bell.png"
+    },
+    {
+        "merged": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-merged_res-44:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-main-46:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-merged_res-44:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-main-46:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-merged_res-44:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-main-46:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-merged_res-44:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-main-46:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-merged_res-44:/layout_fragment_dashboard.xml.flat",
+        "source": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-main-46:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-merged_res-44:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/shashank/.gradle/daemon/8.0/com.task.royalmatch.app-main-46:/drawable-v24/ic_launcher_foreground.xml"
+    }
+]
